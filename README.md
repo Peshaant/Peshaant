@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Peshaant 👋
 
-<!--
-**Peshaant/Peshaant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student at Monash University Malaysia, focused on **AI/ML** with a growing interest in **cybersecurity**.
 
-Here are some ideas to get you started:
+- 🔭 Currently building **University Simulator 2026** — a campus simulation with live, in-sim AI decision-making (final year project)
+- 🧠 Practical ML experience: random forests, linear/logistic regression, and end-to-end pipeline construction
+- 🔐 Hands-on with security tooling: Burp Suite, Wireshark, John the Ripper, SQL injection testing
+- 🎓 NVIDIA Deep Learning Institute (Fundamentals of Deep Learning) · AWS Certified AI Practitioner
+- 💬 Ask me about ML pipelines, OS/networking internals, or Unity-based simulations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages & Tools
+`Python` `Java` `TypeScript` `Haskell` `SQL` `C`
+
+#### Pinned projects below 👇
