@@ -11,7 +11,7 @@ Final-year Computer Science student from 🇲🇺 Mauritius, studying at Monash 
 #### Hackathon projects
 - **[Shipping Desk](https://github.com/hayyaan123/Shipping-Desk)** · *Averis × Monash Hackathon 2026* · [Live demo](https://shipping-doc-verifier.onrender.com)  
   Reads a shipping inbox and checks each draft Bill of Lading against its Shipping Instruction, escalating anything it can't verify. **I wrote all of the code.**
-- **[LeakLens](https://github.com/AvProgramm/LeakLens)** · *Gonka Network public-good hackathon*  
+- **[LeakLens](https://github.com/AvProgramm/LeakLens)** · *Gonka Network public-good hackathon 2026*  
   Privacy-first breach checker that asks multiple AI models to rate leak severity and shows where they disagree. **I built the data layer:** the XposedOrNot breach lookup and the shared breach JSON contract the rest of the team built on.
 
 #### Languages & Tools
