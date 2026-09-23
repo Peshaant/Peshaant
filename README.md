@@ -1,6 +1,6 @@
 ### Hi, I'm Peshaant 👋
 
-Final-year Computer Science student at Monash University Malaysia, focused on **AI/ML** with a growing interest in **cybersecurity**.
+Final-year Computer Science student from 🇲🇺 Mauritius, studying at Monash University Malaysia, focused on AI/ML with a growing interest in cybersecurity.
 
 - 🔭 Currently building **University Simulator 2026** — a campus simulation with live, in-sim AI decision-making (final year project)
 - 🧠 Practical ML experience: random forests, linear/logistic regression, and end-to-end pipeline construction
